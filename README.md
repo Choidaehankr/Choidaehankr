@@ -1,4 +1,4 @@
-## 🙋‍♂️ Hello, I'm Daehan Choi 💁‍♂️
+## 🙋‍♂️ I'm Daehan Choi 💁‍♂️
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choidaehankr&theme=flag-india&show_icons=true)
